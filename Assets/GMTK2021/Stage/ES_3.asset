@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37e705b682860a049b323a3096f7105d, type: 3}
+  m_Name: ES_3
+  m_EditorClassIdentifier: 
+  entries:
+  - emitterGroup: {fileID: 11400000, guid: 177fc1e6dcf8f8842a76639d053c96d6, type: 2}
+    minDurationSeconds: 1
+    maxDurationSeconds: 1
+  - emitterGroup: {fileID: 11400000, guid: 12e7c6fca2136594babeae2ca3930376, type: 2}
+    minDurationSeconds: 1
+    maxDurationSeconds: 1
+  - emitterGroup: {fileID: 11400000, guid: 82ba2e10293e089479cb85fae6f16b23, type: 2}
+    minDurationSeconds: 3
+    maxDurationSeconds: 12
+  - emitterGroup: {fileID: 11400000, guid: 361c2dda3c7eb324f827b0bf27b39c11, type: 2}
+    minDurationSeconds: 3
+    maxDurationSeconds: 12
+  - emitterGroup: {fileID: 11400000, guid: 94fc7e426d283cf4b8c4bae6e14a4c75, type: 2}
+    minDurationSeconds: 3
+    maxDurationSeconds: 12
